@@ -32,17 +32,23 @@ for (int a = 0; a <= 20; a += 2)
 
     Console.WriteLine("\n");
 
-
-   int opcion;
+ int opcion;
 
 do
 {
-    Console.Write("Ingrese un número positivo mayor a 0: ");
-    
-    opcion = int.TryParse(Console.ReadLine(), out opcion) ? opcion : 0;
+    Console.Write("Ingrese un número: ");
+    opcion = int.Parse(Console.ReadLine());
+
+    // Si el número es menor o igual a cero, avisamos al usuario antes de repetir
+    if (opcion <= 0)
+    {
+        Console.WriteLine("Debe ser un número positivo. Intente nuevamente.");
+        Console.WriteLine(); // Una línea en blanco para ordenar la consola
+    }
 
 } while (opcion <= 0);
 
+// Al salir del bucle, ya estamos seguros de que el número es positivo
 Console.WriteLine("¡Gracias! Ingresaste el número: " + opcion);
 
 Console.WriteLine("\n");
@@ -86,3 +92,5 @@ for (int fila = 1; fila <= 5; fila++)
     }
     Console.WriteLine();
 }
+
+                                //GRACIAS POR VER
