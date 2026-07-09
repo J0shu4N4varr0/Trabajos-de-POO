@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\tp-199999\bin\Debug\net10.0\tp-199999.exe
+C:\Users\Lenovo\Documents\tp-199999\bin\Debug\net10.0\tp-199999.deps.json
+C:\Users\Lenovo\Documents\tp-199999\bin\Debug\net10.0\tp-199999.runtimeconfig.json
+C:\Users\Lenovo\Documents\tp-199999\bin\Debug\net10.0\tp-199999.dll
+C:\Users\Lenovo\Documents\tp-199999\bin\Debug\net10.0\tp-199999.pdb
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.dll
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\refint\tp-199999.dll
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.pdb
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\tp-199999.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\tp-199999\obj\Debug\net10.0\ref\tp-199999.dll
