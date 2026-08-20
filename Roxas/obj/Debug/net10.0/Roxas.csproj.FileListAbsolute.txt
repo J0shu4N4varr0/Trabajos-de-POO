@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Roxas\bin\Debug\net10.0\Roxas.exe
+C:\Users\Lenovo\Documents\Roxas\bin\Debug\net10.0\Roxas.deps.json
+C:\Users\Lenovo\Documents\Roxas\bin\Debug\net10.0\Roxas.runtimeconfig.json
+C:\Users\Lenovo\Documents\Roxas\bin\Debug\net10.0\Roxas.dll
+C:\Users\Lenovo\Documents\Roxas\bin\Debug\net10.0\Roxas.pdb
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.dll
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\refint\Roxas.dll
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.pdb
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\Roxas.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Roxas\obj\Debug\net10.0\ref\Roxas.dll
