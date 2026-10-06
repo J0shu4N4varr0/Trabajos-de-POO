@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\messi\bin\Debug\net10.0\messi.exe
+C:\Users\Lenovo\Documents\messi\bin\Debug\net10.0\messi.deps.json
+C:\Users\Lenovo\Documents\messi\bin\Debug\net10.0\messi.runtimeconfig.json
+C:\Users\Lenovo\Documents\messi\bin\Debug\net10.0\messi.dll
+C:\Users\Lenovo\Documents\messi\bin\Debug\net10.0\messi.pdb
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.dll
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\refint\messi.dll
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.pdb
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\messi.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\messi\obj\Debug\net10.0\ref\messi.dll
