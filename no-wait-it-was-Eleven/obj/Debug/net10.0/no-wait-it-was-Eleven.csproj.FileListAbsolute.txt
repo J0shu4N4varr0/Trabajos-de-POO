@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\bin\Debug\net10.0\no-wait-it-was-Eleven.exe
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\bin\Debug\net10.0\no-wait-it-was-Eleven.deps.json
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\bin\Debug\net10.0\no-wait-it-was-Eleven.runtimeconfig.json
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\bin\Debug\net10.0\no-wait-it-was-Eleven.dll
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\bin\Debug\net10.0\no-wait-it-was-Eleven.pdb
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.dll
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\refint\no-wait-it-was-Eleven.dll
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.pdb
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\no-wait-it-was-Eleven.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\no-wait-it-was-Eleven\obj\Debug\net10.0\ref\no-wait-it-was-Eleven.dll
